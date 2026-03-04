@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Ray 👾
+# Yoo, I'm Ray 👾
 
 ### Cybersecurity Student | Aspiring Digital Forensics investigator
 
